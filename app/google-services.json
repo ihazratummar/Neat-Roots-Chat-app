@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911344317061",
+    "project_id": "mymessage-89fc4",
+    "storage_bucket": "mymessage-89fc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911344317061:android:99480f326d7aac5e74efec",
+        "android_client_info": {
+          "package_name": "com.hazrat.mymessage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWuOZHL6sOkidfT8EGWSWUIx93EYhdulE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
